@@ -39,6 +39,8 @@ RunSExtractorPSFEx - Runs the SExtractor + PSFEx routine on the catalogs produce
 
 SExtractor - Functions to perform the SExtractor + PSFex routines
 
+Start - A collection of scripts which initialize different functions used throughout this work, such as the BIAS + Flatfield reduction or the catalog construction to be used by the KARMA software
+
 The Quest for Triplicates - Identifies and averages duplicates and triplicates entries in the Subaru catalog
 
 Utility - A compilation of utility functions used in functions of other scripts
